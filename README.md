@@ -1,3 +1,10 @@
+## 72-Layer Doctrine Compliance
+
+This project is built following the **72-Layer Doctrine** — an AI ethics framework that protects human agency, privacy, and dignity.
+
+**Learn more:** [LadbotOneLad/72-doctrine](https://github.com/LadbotOneLad/72-doctrine)
+
+---
 # OMEGA ULTIMATE: SOVEREIGN MASTER ARCHITECTURAL SPECIFICATION & WHITE PAPER
 ## Absolute Distributed Plenum, Cryptographic Telemetry & Dimensional Ledger (`RobdoeRootAuthority`)
 
